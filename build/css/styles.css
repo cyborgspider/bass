@@ -1,7 +1,7 @@
 body{font:16px/1.5 "Droid Sans","Helvetica","Arial",sans-serif;background:#2a4380;color:#fff;margin:0;padding:0 10px}
 h1{text-align:center;background:#fff;color:#2a4380;margin:0 -20px 20px;padding:20px 0}
 h2{margin:0}
-pre{font:18px "Courier New"}
+pre{font:15px "Courier New"}
 .exercise{zoom:1;padding:10px;margin-bottom:20px;background:#6c8ad5;-webkit-border-radius:3px;border-radius:3px}
 .exercise:before,.exercise:after{content:"";display:table}
 .exercise:after{clear:both}
